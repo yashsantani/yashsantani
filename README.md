@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashsantani
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on projects of ML
+- 👀 I’m interested in AI ,ml and web dev
+- 🌱 I’m currently learning web dev
+- 💞️ I’m looking to collaborate on projects of ML and web dev 
 
 
 <!---
